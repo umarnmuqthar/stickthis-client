@@ -39,6 +39,7 @@ const Navbar = () => {
             </a>
           </div>
         </div>
+        {/* menu button for mobile devices */}
         <button id="menuBtn" class="lg:hidden">
           <i class="bi bi-list text-4xl text-white"></i>
         </button>
