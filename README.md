@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Stickthis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An ecommerce application for selling and buying stickers [stickthis.xyz](https://stickthis.xyz).
 
 ## Available Scripts
 
